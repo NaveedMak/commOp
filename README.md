@@ -1,4 +1,3 @@
 # commOp
 
-Naveed says this is amazing
-Hello World
+Naveed says this is amazing!
